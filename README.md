@@ -1,4 +1,4 @@
-# Phoenix Repository  
+# Plucky-Phoenix Repository  
 
 Welcome to **Plucky Phoenix**, your go-to resource for coding guidelines, tips, and tricks for working with **Power Apps**!
 
